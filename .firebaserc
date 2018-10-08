@@ -1,0 +1,7 @@
+{
+  "projects": {
+  "production": "your-production-env-name",
+  "staging": "your-staging-env-name",
+  "qa": "your-qa-env-name"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "ci-firebase-deploy-scipt",
+  "version": "1.0.0",
+  "description": "CI deployment script for Firebase services",
+  "engines": {
+    "node": "8"
+  },
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilUrge/ci-firebase-deploy-scipt.git"
+  },
+  "keywords": [
+    "firebase",
+    "deploy",
+    "ci"
+  ],
+  "author": "Gilad Maoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evilUrge/ci-firebase-deploy-scipt/issues"
+  },
+  "homepage": "https://github.com/evilUrge/ci-firebase-deploy-scipt#readme",
+  "dependencies": {
+    "firebase-tools": "^5.0.1"
+  }
+}
