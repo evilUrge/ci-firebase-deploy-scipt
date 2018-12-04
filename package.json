@@ -24,7 +24,8 @@
     "url": "https://github.com/evilUrge/ci-firebase-deploy-scipt/issues"
   },
   "homepage": "https://github.com/evilUrge/ci-firebase-deploy-scipt#readme",
-  "dependencies": {
-    "firebase-tools": "^5.0.1"
+  "dependencies": {},
+  "devDependencies": {
+    "firebase-tools": "^6.1.2"
   }
 }
